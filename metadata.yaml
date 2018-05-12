@@ -1,0 +1,29 @@
+_repo: The-Chevalier-d-Auriac_38323
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Levett Yeats, S. (Sidney)
+    aliases:
+    - Levett Yeats, Sidney
+    - Levett-Yeats, S. (Sidney)
+    - Yeats, S. Levett
+    gutenberg_agent_id: '9142'
+    url: http://www.gutenberg.org/2009/agents/9142
+description: ''
+gutenberg_issued: '2011-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Henry IV, 1589-1610 -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+title: The Chevalier d'Auriac
+url: http://www.gutenberg.org/ebooks/38323
